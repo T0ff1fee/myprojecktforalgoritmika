@@ -21,7 +21,7 @@ mixer.music.play()
 fire_sound = mixer.Sound('fire.ogg')
 
 img_back = 'galaxy.jpg'
-img_hero = 'rocket.png'
+img_hero = 'ufo.png'
 img_bullet = 'bullet.png'
 img_enemy = 'ufo.png'
 img_asteroid = 'asteroid.png'
